@@ -22,4 +22,16 @@ class LoginActivity : AppCompatActivity() {
         initUI()
         initListeners()
     }
+
+    private fun initComponents() {
+
+    }
+
+    private fun initUI() {
+
+    }
+
+    private fun initListeners() {
+
+    }
 }
