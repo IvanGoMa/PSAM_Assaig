@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
         Pair("Grasa corporal" , "16,4%"),
         Pair("Massa muscular" , "52,1 kg")
         )
+    private val
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
